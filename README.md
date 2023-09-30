@@ -6,6 +6,7 @@
 - [Local Setup](#local-setup)
 - [Credits](#credits)
 - [Status](#status)
+- [License](#license)
 
 ## About The Project
 
@@ -80,3 +81,9 @@ CSS for the golden pattern used in the background of the card is generated from 
 This project is completed and I am not working on it at the moment.
 
 In the future I would like to include the recipe and ingredient list for each dinner item.
+
+## License
+
+You can find the License for this project [here](#LICENSE.md)
+
+This project is licensed under the terms of the MIT license.
