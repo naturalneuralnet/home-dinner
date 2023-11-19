@@ -7,11 +7,16 @@ Aiming for a an art deco theme and coloring.
 
 You can try it out here: https://dinner-shuffle.onrender.com/
 
+![Alt text](src/screenshots/fullScreen.png)
+
+Closer look at the gold CSS pattern:
+
+![Alt text](src/screenshots/CSSPattern.png)
+
 ## Table of Contents
 
 - [About The Project](#About-The-Project)
 - [Technologies Used](#Technologies-Used)
-- [Screenshots](#screenshots)
 - [Local Setup](#local-setup)
 - [Credits](#credits)
 - [Status](#status)
@@ -24,27 +29,13 @@ You can try it out here: https://dinner-shuffle.onrender.com/
 - React
 - Material UI
 
-- Google Font LimeLight.
-- Responsive Design.
-- Built with create-react-app boilerplate.
-
-## Screenshots
-
-![Alt text](src/screenshots/fullScreen.png)
-
-Closer look at the gold CSS pattern:
-
-![Alt text](src/screenshots/CSSPattern.png)
-
 ## Local Setup
 
-To run this project locally. Download or clone the project from GitHub.
-
-Install the dependecies with the npm install command.
+Install the dependencies with the npm install command.
 
 `npm install`
 
-Once dependcies are successfully installed. Run locally with npm run start.
+Once dependencies are successfully installed. Run locally with npm run start.
 
 `npm run start`
 
