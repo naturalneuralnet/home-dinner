@@ -1,13 +1,11 @@
 
 # About
 
-This is a simple dinner randomizer I made to help my mum decide what to make for dinner.
+This is a simple dinner randomizer I made to help my family decide what to make for dinner.
 
-Insipired by my mum asking me what to make for dinner so often I decided to put some of our meals into a website she can tap on to get a idea of what to for dinner.
+Aiming for a an art deco theme and coloring. 
 
-Aiming for a an art deco theme and coloring. Somewhat inspired by my local Pakistani restaurant.
-
-You can find the web version here:
+You can try it out here: https://dinner-shuffle.onrender.com/
 
 ## Table of Contents
 
@@ -21,14 +19,14 @@ You can find the web version here:
 
 ## Technologies Used
 
-Javasscript
-CSS
-React
-Material UI
+- Javascript
+- CSS
+- React
+- Material UI
 
-Google Font LimeLight.
-Responsive Design.
-Built with create-react-app boilerplate.
+- Google Font LimeLight.
+- Responsive Design.
+- Built with create-react-app boilerplate.
 
 ## Screenshots
 
@@ -81,7 +79,7 @@ CSS for the golden pattern used in the background of the card is generated from 
 
 This project is completed and I am not working on it at the moment.
 
-In the future I would like to include the recipe and ingredient list for each dinner item.
+In the future I would like to use an API to generate the menu items.
 
 ## License
 
