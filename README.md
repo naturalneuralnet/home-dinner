@@ -1,3 +1,14 @@
+
+# About
+
+This is a simple dinner randomizer I made to help my mum decide what to make for dinner.
+
+Insipired by my mum asking me what to make for dinner so often I decided to put some of our meals into a website she can tap on to get a idea of what to for dinner.
+
+Aiming for a an art deco theme and coloring. Somewhat inspired by my local Pakistani restaurant.
+
+You can find the web version here:
+
 ## Table of Contents
 
 - [About The Project](#About-The-Project)
@@ -7,16 +18,6 @@
 - [Credits](#credits)
 - [Status](#status)
 - [License](#license)
-
-## About The Project
-
-This is a simple dinner randomizer I made to help my mum decide what to make for dinner.
-
-Insipired by my mum asking me what to make for dinner so often I decided to put some of our meals into a website she can tap on to get a idea of what to for dinner.
-
-Aiming for a an art deco theme and coloring. Somewhat inspired by my local Pakistani restaurant.
-
-You can find the web version here:
 
 ## Technologies Used
 
